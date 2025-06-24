@@ -120,4 +120,4 @@ app.*.symbols
 
 
 # Firebase-generated config
-firebase_options.dart
+lib/firebase_options.dart
