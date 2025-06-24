@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952913872179",
+    "project_id": "hunterflutterdatabases",
+    "storage_bucket": "hunterflutterdatabases.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952913872179:android:6c5ae3778b04fc7b1d6a46",
+        "android_client_info": {
+          "package_name": "com.example.card_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFekQLYRX4fYUFNlVE3nv1gD62dVokSlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
